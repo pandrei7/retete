@@ -59,11 +59,5 @@ namespace Retete
         {
 
         }
-
-        private void hasVideoLabel_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
-        {
-            ProcessStartInfo sInfo = new ProcessStartInfo(e.Link.LinkData.ToString());
-            Process.Start(sInfo);
-        }
     }
 }

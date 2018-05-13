@@ -66,7 +66,6 @@ namespace Retete
             this.hasVideoLabel.TabIndex = 2;
             this.hasVideoLabel.Text = "Aceasta reteta are si un video!";
             this.hasVideoLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.hasVideoLabel.Click += new System.EventHandler(this.hasVideoLabel_Click);
             // 
             // linkLabel
             // 
@@ -103,7 +102,7 @@ namespace Retete
 
         private void hasVideoLabel_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+
         }
 
         #endregion
