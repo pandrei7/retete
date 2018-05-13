@@ -8,3 +8,14 @@ C:\Users\c\Desktop\Info\Pt.C#\Retete\Retete\obj\Debug\Retete.Properties.Resource
 C:\Users\c\Desktop\Info\Pt.C#\Retete\Retete\obj\Debug\Retete.csproj.GenerateResource.Cache
 C:\Users\c\Desktop\Info\Pt.C#\Retete\Retete\obj\Debug\Retete.exe
 C:\Users\c\Desktop\Info\Pt.C#\Retete\Retete\obj\Debug\Retete.pdb
+C:\Users\sport\Desktop\Retete\retete\Retete\bin\Debug\Retete.exe.config
+C:\Users\sport\Desktop\Retete\retete\Retete\bin\Debug\Retete.exe
+C:\Users\sport\Desktop\Retete\retete\Retete\bin\Debug\Retete.pdb
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.csprojResolveAssemblyReference.cache
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.Form1.resources
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.FormRecipe.resources
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.Properties.Resources.resources
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.csproj.GenerateResource.Cache
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.csproj.CoreCompileInputs.cache
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.exe
+C:\Users\sport\Desktop\Retete\retete\Retete\obj\Debug\Retete.pdb

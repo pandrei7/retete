@@ -44,7 +44,7 @@ namespace Retete
             string link = html.Substring(startPos, length);
             index = endPos;
 
-            return "http://www.lalena.ro/" + link;
+            return link;
         }
 
         private static bool extractHasVideo(string html, ref int index)
